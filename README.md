@@ -1,4 +1,4 @@
-# CSE 1207: Object Oriented Programming Sessional Assignment
+# CSE 1207: Object Oriented Programming Assignment
 
 **Name:** Thowai  
 **Roll:** 2407121 
