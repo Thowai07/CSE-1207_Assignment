@@ -1,8 +1,8 @@
 # CSE 1207: Object Oriented Programming Assignment using unorderd_multimap.
 
-**Name:** Thowai Hla Gya Marma
-**Roll:** 2407121 
-**University:** KUET  
+* **Name:** Thowai Hla Gya Marma
+* **Roll:** 2407121
+* **University:** KUET
 
 This repository contains my C++ assignment solutions.
 problem1: Nickname_mapper.
