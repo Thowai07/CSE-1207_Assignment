@@ -1,6 +1,6 @@
 # CSE 1207: Object Oriented Programming Assignment
 
-**Name:** Thowai Hla Gya Maram
+**Name:** Thowai Hla Gya Marma
 **Roll:** 2407121 
 **University:** KUET  
 
