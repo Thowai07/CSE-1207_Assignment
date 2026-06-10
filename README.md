@@ -5,8 +5,8 @@
 * **University:** KUET
 
 This repository contains my C++ assignment solutions.
-problem1: Nickname_mapper.
-problem2:product_catagory_store.
+* **problem1:** Nickname_mapper.
+* **problem2:** product_catagory_store.
 
 ### :tv: Video Explanation
 
