@@ -10,4 +10,4 @@ problem2:product_catagory_store.
 
 ### :tv: Video Explanation
 
-[Click here to watch my full video explanation](https://apnar-drive-ba-youtube-video-link)
+[Click here to watch my full video explanation](https://drive.google.com/file/d/1TaTC6Z2fMSpGHlVLWB1-uE5_Ly72s_So/view?usp=sharing)
